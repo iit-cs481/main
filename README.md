@@ -33,7 +33,7 @@
 100 points - Midterm  
 100 points - Final  
 100 points - Project  
-**600 total points**
+**500 total points**
 
 | **Percent** | **Grade** |
 |-------------|-----------|
