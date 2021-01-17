@@ -60,6 +60,7 @@
     >> broadcasting operations on array
     >> linear algebra tools
     >> random number capabilities
+![](/Lectures/Lec_01/numpy_exm.png)
    
 ### pandas
 > python data analysis library for tabular data structure <br>
@@ -72,6 +73,7 @@
     >> Groupby and statistics
     >> Plotting
     >> Join and merge dataframes
+![](/Lectures/Lec_01/pandas_exm.png)
    
 ### Matplotlib
 
@@ -84,6 +86,8 @@
   >> Subplots
   >> Colormaps
   >> Axes customization
+  
+![](/Lectures/Lec_01/matplotlib_exm.png)
 
 ### NLTK
 > Natural Language Toolkit
@@ -93,7 +97,7 @@
     - Corpora and lexical resources <br>
     - Text processing libraries: classification, tokenization, stemming, tagging, parsing, and semantic reasoning <br>
  
-   ![](/Lectures/Lec_01/nltk_exm.png)
+![](/Lectures/Lec_01/nltk_exm.png)
    
 ### Other modules
 
