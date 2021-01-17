@@ -56,10 +56,11 @@
 - Documentation: https://numpy.org/doc/
 
 - Features:
-    >> n-dimension arrays
-    >> broadcasting operations on array
-    >> linear algebra tools
-    >> random number capabilities
+    >> n-dimension arrays <br>
+    >> broadcasting operations on array <br>
+    >> linear algebra tools <br>
+    >> random number capabilities <br>
+    
 ![](/Lectures/Lec_01/numpy_exm.png)
    
 ### pandas
@@ -67,12 +68,13 @@
 
 - **Documentation**: https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
 - Features
-    >> JSON, CSV, Excel, SQL data loading/saving
-    >> Dataframe structures (named columns)
-    >> Missing values management
-    >> Groupby and statistics
-    >> Plotting
-    >> Join and merge dataframes
+    >> JSON, CSV, Excel, SQL data loading/saving <br>
+    >> Dataframe structures (named columns) <br>
+    >> Missing values management <br>
+    >> Groupby and statistics <br>
+    >> Plotting <br>
+    >> Join and merge dataframes <br>
+    
 ![](/Lectures/Lec_01/pandas_exm.png)
    
 ### Matplotlib
@@ -83,9 +85,9 @@
 
 - **Documentation**: https://matplotlib.org/
 - Features:
-  >> Subplots
-  >> Colormaps
-  >> Axes customization
+  >> Subplots <br>
+  >> Colormaps <br>
+  >> Axes customization <br>
   
 ![](/Lectures/Lec_01/matplotlib_exm.png)
 
