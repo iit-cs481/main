@@ -93,7 +93,7 @@
     - Corpora and lexical resources <br>
     - Text processing libraries: classification, tokenization, stemming, tagging, parsing, and semantic reasoning <br>
  
-   ![NLTK_example](/Lectures/lec_01/nltk_exm.png)
+   ![](/Lectures/Lec_01/nltk_exm.png)
    
 ### Other modules
 
