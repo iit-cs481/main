@@ -115,7 +115,7 @@
 - Natural Language Processing:
   - Spacy: https://spacy.io/
   - Stanford NLP tools: http://nlp.stanford.edu/software/
-  - NLTK-Data: https://www.nltk.org/install.html
+  - NLTK-Data: http://www.nltk.org/data.html
     <!--NLTK_DATA environment variable-->
 - Machine Learning:
     - scikit-learn: http://scikit-learn.org/stable/documentation.html
