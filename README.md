@@ -16,7 +16,7 @@
 
 **TA:** TBA
 
-**See the [Syllabus](Schedule.md) for a detailed list of schedules and topics.**
+**See the [Syllabus](Schedule.md) for a detailed list of topics and schedules.**
 
 ### Prerequisites
 - Math
