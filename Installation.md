@@ -114,6 +114,9 @@
   - Scrapy: https://scrapy.org/
 - Natural Language Processing:
   - Spacy: https://spacy.io/
+  - Stanford NLP tools: http://nlp.stanford.edu/software/
+  - NLTK-Data: https://www.nltk.org/install.html
+    <!--NLTK_DATA environment variable-->
 - Machine Learning:
     - scikit-learn: http://scikit-learn.org/stable/documentation.html
   
