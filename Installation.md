@@ -115,6 +115,7 @@
 - Natural Language Processing:
   - Spacy: https://spacy.io/
   - Stanford NLP tools: http://nlp.stanford.edu/software/
+  - Gensim: https://radimrehurek.com/gensim/
   - NLTK-Data: http://www.nltk.org/data.html
     <!--NLTK_DATA environment variable-->
 - Machine Learning:
