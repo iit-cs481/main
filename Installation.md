@@ -127,3 +127,12 @@
 - Curated list of Machine Learning tools: https://github.com/josephmisiti/awesome-machine-learning#python
 - List of data science Jupyter notebooks: https://github.com/donnemartin/data-science-ipython-notebooks
 - List of public APIs: https://github.com/toddmotto/public-apis
+
+### Python tutorial:
+
+- CodeCademy, interactive platform, free for Learn Python 2: https://www.codecademy.com/learn/learn-python
+- Coursera, "Programming for Everybody (getting started with python)": https://www.coursera.org/learn/python?specialization=python#instructors
+- Linkedin, "Learning python": https://www.linkedin.com/learning/learning-python/
+- Official documentation: https://docs.python.org/3/tutorial/index.html
+
+
