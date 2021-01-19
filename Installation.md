@@ -134,5 +134,5 @@
 - Coursera, "Programming for Everybody (getting started with python)": https://www.coursera.org/learn/python?specialization=python#instructors
 - Linkedin, "Learning python": https://www.linkedin.com/learning/learning-python/
 - Official documentation: https://docs.python.org/3/tutorial/index.html
-
+- A beginner's guide to Python: https://wiki.python.org/moin/BeginnersGuide
 
