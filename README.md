@@ -62,7 +62,8 @@
 
 ### Grading
 
-100 points - Quizzes (10 @ 10 points each) 
+100 points - Quizzes (10 @ 10 points each)
+
 100 points - [Assignments] (4 @ 25 points each)  
 100 points - Midterm  
 100 points - Final  
