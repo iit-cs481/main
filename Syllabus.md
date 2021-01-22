@@ -3,7 +3,7 @@
 | Date  | Topic                                    | Lecture Notes           | Readings             |  Due     |
 | ----- |------------------------------------------|-------------------------|---------------|--------------|
 | 1/19  | Introduction                             | [L01](Lectures/Lec_01)  |               |              |
-| 1/21  | Linguistic Concepts and probability      | [L01](Lectures/Lec_02)  |               |              |
+| 1/21  | Linguistic Concepts and probability      | [L02](Lectures/Lec_02)  |               |              |
 | 1/26  | Text Corpora                             |                         |               |              |
 | 1/28  | Lexical Resources                        |                         |               |              |
 | 2/02  | Raw Text Processing                      |                         |               |              |
