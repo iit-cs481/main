@@ -12,9 +12,9 @@
 
 **E-mail:** zwang185 at hawk.iit.edu  
 
-**Office Hours:** TBA  
+**Office Hours:** 08:00 - 9:00 pm T/R  
 
-**TA:** TBA
+**TA:** Ruo Yang
 
 **See the [Syllabus](Syllabus.md) for a detailed list of topics and schedules.**
 
