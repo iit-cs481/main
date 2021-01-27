@@ -12,7 +12,7 @@
 
 **E-mail:** zwang185 at hawk.iit.edu  
 
-**Office Hours:** 08:00 - 9:00 pm T/R  
+**Office Hours:** 08:00 - 9:00 pm Thur  
 
 **TA:** Ruo Yang (ryang23 at hawk.iit.edu)
 
