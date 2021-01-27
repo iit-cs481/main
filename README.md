@@ -14,7 +14,7 @@
 
 **Office Hours:** 08:00 - 9:00 pm T/R  
 
-**TA:** Ruo Yang
+**TA:** Ruo Yang (ryang23 at hawk.iit.edu)
 
 **See the [Syllabus](Syllabus.md) for a detailed list of topics and schedules.**
 
