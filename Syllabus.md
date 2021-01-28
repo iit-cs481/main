@@ -4,7 +4,7 @@
 | ----- |------------------------------------------|-------------------------|---------------|--------------|
 | 1/19  | Introduction                             | [L01](Lectures/Lec_01)  |               |              |
 | 1/21  | Linguistic Concepts and probability      | [L02](Lectures/Lec_02)  |               |              |
-| 1/26  | Text Corpora                             |                         |               |              |
+| 1/26  | Text Corpora                             | [L03](Lectures/Lec_02)  |               |              |
 | 1/28  | Lexical Resources                        |                         |               |              |
 | 2/02  | Raw Text Processing                      |                         |               |              |
 | 2/04  | Regular Expressions                      |                         |               |              |
