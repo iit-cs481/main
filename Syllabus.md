@@ -6,7 +6,7 @@
 | 1/21  | Linguistic Concepts and probability      | [L02](Lectures/Lec_02)  | [FSNLP-02](https://nlp.stanford.edu/fsnlp/)           |              |
 | 1/26  | Text Corpora                             | [L03](Lectures/Lec_03)  | [FSNLP-04](https://nlp.stanford.edu/fsnlp/) & [NLTK-02](https://www.nltk.org/book/ch02.html)        |              |
 | 1/28  | Lexical Resources                        | [L04](Lectures/Lec_04)  | [JM-02](https://web.stanford.edu/~jurafsky/slp3/) & [NLTK-02](https://www.nltk.org/book/ch02.html)        |      Q-1      |
-| 2/02  | Raw Text Processing                      |                         |               |             |
+| 2/02  | Raw Text Processing                      | [L05](Lectures/Lec_05)  | [Unicode](https://unicode.org/standard/principles.html) & [NLTK-02](https://www.nltk.org/book/ch03.html)              |             |
 | 2/04  | Regular Expressions                      |                         |               |              |
 | 2/09  | ~~COVID study day~~                      |                         |               |              |
 | 2/11  | Structured Python for NLP                |                         |               |              |
