@@ -7,9 +7,9 @@
 | 1/26  | Text Corpora                             | [L03](Lectures/Lec_03)  | [NLTK-02](https://www.nltk.org/book/ch02.html) & [FSNLP-04](https://nlp.stanford.edu/fsnlp/)         |              |
 | 1/28  | Lexical Resources                        | [L04](Lectures/Lec_04)  | [NLTK-02](https://www.nltk.org/book/ch02.html) & [JM-02](https://web.stanford.edu/~jurafsky/slp3/)         |      Q-1      |
 | 2/02  | Raw Text Processing                      | [L05](Lectures/Lec_05)  | [NLTK-03](https://www.nltk.org/book/ch03.html) & [Unicode](https://unicode.org/standard/principles.html)     |             |
-| 2/04  | Regular Expressions                      | [L06](Lectures/Lec_06)  | [NLTK-03](https://www.nltk.org/book/ch03.html) & [RE-doc](https://docs.python.org/3/howto/regex.html)       |              |
-| 2/09  | ~~COVID study day~~                      |                         |               |              |
-| 2/11  | Structured Python for NLP                |                         |               |              |
+| 2/04  | Regular Expressions                      | [L06](Lectures/Lec_06)  | [NLTK-03](https://www.nltk.org/book/ch03.html) & [RE-doc](https://docs.python.org/3/howto/regex.html)       |      Q-2      |
+| 2/09  | ~~COVID study day~~                      |                         |               |    HW-1      |
+| 2/11  | Regular Expressions - cont               | [L06](Lectures/Lec_06)  | [NLTK-03](https://www.nltk.org/book/ch03.html) & [RE-doc](https://docs.python.org/3/howto/regex.html)       |              |
 | 2/16  | Word Categorization: POS Tagging (1)     |                         |               |              |
 | 2/18  | Word Categorization: POS Tagging (2)     |                         |               |              |
 | 2/23  | Text Representation                      |                         |               |              |
