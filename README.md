@@ -16,6 +16,8 @@
 
 **TA:** Ruo Yang (ryang23 at hawk.iit.edu)
 
+**TA office hour:** 8:30 ~ 9:30 am Wed on [zoom](https://iit-edu.zoom.us/j/3059684323), by [appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUR6TDRETlZsRmI1fGRlZmF1bHR8NmM5MTU3NDg1NjNlNTNmZGM5Y2QwOTkyYWRlZWM1MTI)
+
 **See the [Syllabus](Syllabus.md) for a detailed list of topics and schedules.**
 
 ### Prerequisites
