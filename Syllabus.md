@@ -10,7 +10,7 @@
 | 2/04  | Regular Expressions                      | [L06](Lectures/Lec_06)  | [NLTK-03](https://www.nltk.org/book/ch03.html) & [RE-doc](https://docs.python.org/3/howto/regex.html)       |      Q-2      |
 | 2/09  | ~~COVID study day~~                      |                         |               |    HW-1      |
 | 2/11  | Regular Expressions - cont               | [L06](Lectures/Lec_06)  | [NLTK-03](https://www.nltk.org/book/ch03.html) & [RE-doc](https://docs.python.org/3/howto/regex.html)       |              |
-| 2/16  | Word Categorization: POS Tagging (1)     |                         |               |              |
+| 2/16  | Word Categorization: POS Tagging (1)     | [L08](Lectures/Lec_08)  | [NLTK-05](https://www.nltk.org/book/ch05.html) &             |              |
 | 2/18  | Word Categorization: POS Tagging (2)     |                         |               |              |
 | 2/23  | Text Representation                      |                         |               |              |
 | 2/25  | Text Categorization / Text Classification|                         |               |              |
