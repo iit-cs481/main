@@ -12,7 +12,7 @@
 | 2/11  | Regular Expressions - cont               | [L06](Lectures/Lec_06)  | [NLTK-03](https://www.nltk.org/book/ch03.html) & [RE-doc](https://docs.python.org/3/howto/regex.html)       |      Q-3      |
 | 2/16  | POS Tagging                              | [L08](Lectures/Lec_08)  | [NLTK-05](https://www.nltk.org/book/ch05.html) & [JM-8.2](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf)         |              |
 | 2/18  | POS Tagging - HMM                        | [L09](Lectures/Lec_09)  | [NLTK-05](https://www.nltk.org/book/ch05.html) & [JM-8.4](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf)         |              |
-| 2/23  | Text Representation                      |                         |               |              |
+| 2/23  | Text Pre-processing                      |  [L10](Lectures/Lec_10) |               |     HW-2     |
 | 2/25  | Text Categorization / Text Classification|                         |               |              |
 | 3/02  | Classifier Evaluation                    |                         |               |              |
 | 3/04  | Unsupervised Methods in NLP              |                         |               |              |
