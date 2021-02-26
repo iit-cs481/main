@@ -11,11 +11,11 @@
 | 2/09  | ~~COVID study day~~                      |                         |               |    HW-1      |
 | 2/11  | Regular Expressions - cont               | [L06](Lectures/Lec_06)  | [NLTK-03](https://www.nltk.org/book/ch03.html) & [RE-doc](https://docs.python.org/3/howto/regex.html)       |      Q-3      |
 | 2/16  | POS Tagging                              | [L08](Lectures/Lec_08)  | [NLTK-05](https://www.nltk.org/book/ch05.html) & [JM-8.2](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf)         |              |
-| 2/18  | POS Tagging - HMM                        | [L09](Lectures/Lec_09)  | [NLTK-05](https://www.nltk.org/book/ch05.html) & [JM-8.4](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf)         |              |
+| 2/18  | POS Tagging - HMM                        | [L09](Lectures/Lec_09)  | [NLTK-05](https://www.nltk.org/book/ch05.html) & [JM-8.4](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf)         |   Q-4     |
 | 2/23  | Text Pre-processing                      |  [L10](Lectures/Lec_10) | [NLTK-05](https://www.nltk.org/book/ch05.html) & [NLTK-stem](https://www.nltk.org/api/nltk.stem.html)  |     HW-2     |
-| 2/25  | Text Classification                      |  [L11](Lectures/Lec_11) | [NLTK-06](https://www.nltk.org/book/ch06.html) & [sklearn-CV](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)  |     Quiz-5   |
+| 2/25  | Text Classification                      |  [L11](Lectures/Lec_11) | [NLTK-06](https://www.nltk.org/book/ch06.html) & [sklearn-CV](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)  |     Q-5   |
 | 3/02  | Text Classification - LogisticRegression |  [L12](Lectures/Lec_12) | [NLTK-06](https://www.nltk.org/book/ch06.html) & [sklearn-LR](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)              |              |
-| 3/04  | Classifier Evaluation                   |                         |               |              |
+| 3/04  | Classifier Evaluation                    |   [L13](Lectures/Lec_13)  | [sklearn-evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)              |              |
 | 3/09  | Information Extraction                   |                         |               |              |
 | 3/11  | **Midterm**                              |                         |               |              |
 | 3/16  | Sequence Categorization: Named Entity Extraction|                  |               |              |
