@@ -13,9 +13,9 @@
 | 2/16  | POS Tagging                              | [L08](Lectures/Lec_08)  | [NLTK-05](https://www.nltk.org/book/ch05.html) & [JM-8.2](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf)         |              |
 | 2/18  | POS Tagging - HMM                        | [L09](Lectures/Lec_09)  | [NLTK-05](https://www.nltk.org/book/ch05.html) & [JM-8.4](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf)         |              |
 | 2/23  | Text Pre-processing                      |  [L10](Lectures/Lec_10) | [NLTK-05](https://www.nltk.org/book/ch05.html) & [NLTK-stem](https://www.nltk.org/api/nltk.stem.html)  |     HW-2     |
-| 2/25  | Text Categorization / Text Classification|  [L11](Lectures/Lec_11) | [NLTK-06](https://www.nltk.org/book/ch06.html) & [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)  |     Quiz-5   |
-| 3/02  | Classifier Evaluation                    |                         |               |              |
-| 3/04  | Unsupervised Methods in NLP              |                         |               |              |
+| 2/25  | Text Classification                      |  [L11](Lectures/Lec_11) | [NLTK-06](https://www.nltk.org/book/ch06.html) & [sklearn-CV](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)  |     Quiz-5   |
+| 3/02  | Text Classification - LogisticRegression |  [L12](Lectures/Lec_12) | [NLTK-06](https://www.nltk.org/book/ch06.html) & [sklearn-LR](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)              |              |
+| 3/04  | Classifier Evaluation                   |                         |               |              |
 | 3/09  | Information Extraction                   |                         |               |              |
 | 3/11  | **Midterm**                              |                         |               |              |
 | 3/16  | Sequence Categorization: Named Entity Extraction|                  |               |              |
