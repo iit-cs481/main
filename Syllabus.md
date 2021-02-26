@@ -16,7 +16,7 @@
 | 2/25  | Text Classification                      |  [L11](Lectures/Lec_11) | [NLTK-06](https://www.nltk.org/book/ch06.html) & [sklearn-CV](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)  |     Q-5   |
 | 3/02  | Text Classification - LogisticRegression |  [L12](Lectures/Lec_12) | [NLTK-06](https://www.nltk.org/book/ch06.html) & [sklearn-LR](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)              |              |
 | 3/04  | Classifier Evaluation                    |   [L13](Lectures/Lec_13)  | [sklearn-evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)              |              |
-| 3/09  | Information Extraction                   |                         |               |              |
+| 3/09  | Review                   |                         |               |              |
 | 3/11  | **Midterm**                              |                         |               |              |
 | 3/16  | Sequence Categorization: Named Entity Extraction|                  |               |              |
 | 3/18  | Context Free Grammars and Syntax         |                         |               |              |
